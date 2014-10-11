@@ -1,3 +1,5 @@
+Founder, IndieGogo
+
 Getting access to capital is difficult to do business you want to do.
 I started journey from Wall St. its a great training ground.
 Met Hollywood industry, found struggling artists and I was representing a bank, they were looking for money.
@@ -12,10 +14,13 @@ That's why started Indiegogo before crowd funding word was popular.
 
 Lessons
 
-1. Why - to democratize access to capital, it gets your **ego out of the way**, it gets you through your **dark period** (2008 came in, did not take salary for ~3 years), if the why is not good enough, you won't stick out through dark periods, since entrepreneurship is pretty hard. It made our strategy global, it decides optionalities in the strategy. Best **talent** is not looking for job, they will be attracted only because of a good "why". It attracts **customers**. 
+#1 Why
+
+ to democratize access to capital, it gets your **ego out of the way**, it gets you through your **dark period** (2008 came in, did not take salary for ~3 years), if the why is not good enough, you won't stick out through dark periods, since entrepreneurship is pretty hard. It made our strategy global, it decides optionalities in the strategy. Best **talent** is not looking for job, they will be attracted only because of a good "why". It attracts **customers**. 
 The "5 why" B-school exercise is useful.
 
-2. Be intentional about the culture
+#2 Be intentional about the culture
+
 There is **always a culture** whether you admit it or not, key is to make it a priority.
 
 Diversity drives innovation - 45% overall female.
@@ -30,4 +35,7 @@ Operationalize - ??
 
 Measure how well its coming along 
 
-3. Technology is just a means not an end.
+#3 Technology is just a means not an end.
+
+Before KPCB invested, they emphasized that irrespective of investment, that you have built a really important company.
+Focus on building something meaningful which world needs and not how to grow fast (that will happen as a consequence)
