@@ -5,3 +5,4 @@ List of talks.
 3. [Kevin Synstrom (founder, Instagram) with Gary Tan](kevin_synstrom.md)
 4. [Reid Hoffman (founder, LinkedIn)  with Sam Altman](reid_hoffman.md)
 5. [Jan Koum (founder, WhatsApp) with Jim Goetz](jan_koum.md)
+6. [Eric (founder, Pebble)](eric.md)
